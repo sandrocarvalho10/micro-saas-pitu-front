@@ -7,5 +7,5 @@ database.sync({
 })
 console.log("Database running at 3306");
 
-app.listen(3001);
+app.listen(process.env.PORT || 3001);
 console.log('Server running at port 3001')
