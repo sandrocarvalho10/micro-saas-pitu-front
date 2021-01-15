@@ -15,5 +15,7 @@
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5",
     "typescript": "^4.1.2"
-  }
+  },
+  "repository": "https://github.com/sandrocarvalho10/micro-saas-pitu-back.git",
+  "author": "Sandro Carvalho <sandrinho9797@outlook.com>"
 }
